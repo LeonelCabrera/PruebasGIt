@@ -1,5 +1,6 @@
-# PruebasGIt
+# PruebasGIt Tefa
+#Super Juanjo
 probando
 PRUEBA GIT JUANJO
-Sanchez y el sapo se aman
-Sanchez y soba se gustan
+
+SUPER JUANJO
